@@ -1,5 +1,6 @@
 # Gesture-Flow
-Project Overview
+
+# Project Overview
 
 GestureFlow is an accessibility-focused project aimed at enabling individuals with physical disabilities to interact with computers through hand gestures and eye movements. The system is designed to improve accessibility and enhance human-computer interaction, integrating advanced machine learning techniques for gesture and voice recognition.
 
